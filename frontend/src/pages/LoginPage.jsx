@@ -33,7 +33,7 @@ const LoginPage = () => {
   };
   return (
     <div className="h-screen grid lg:grid-cols-2 pt-16">
-      <div className="flex flex-col justify-center items-center p-6 sm:p-12">
+      <div className="flex flex-col bg-base-200 justify-center items-center p-6 sm:p-12">
         <div className="w-full max-w-md space-y-8">
           {/* logo */}
           <div className="text-center mb-8">
